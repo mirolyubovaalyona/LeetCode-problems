@@ -7,5 +7,6 @@
 - [28. Find the Index of the First Occurrence in a String](/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.php)
 - [242. Valid Anagram](/242.%20Valid%20Anagram.php)
 - [459. Repeated Substring Pattern](/459.%20Repeated%20Substring%20Pattern.php)
+- [283. Move Zeroes](/283.%20Move%20Zeroes.php)
 
 ## SQL 50
