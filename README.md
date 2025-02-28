@@ -8,5 +8,6 @@
 - [242. Valid Anagram](/242.%20Valid%20Anagram.php)
 - [459. Repeated Substring Pattern](/459.%20Repeated%20Substring%20Pattern.php)
 - [283. Move Zeroes](/283.%20Move%20Zeroes.php)
+- [66. Plus One](/66.%20Plus%20One.php)
 
 ## SQL 50
