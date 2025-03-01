@@ -1,6 +1,9 @@
 # My solutions to LeetCode Problems
 
-[My profile] (<https://leetcode.com/u/mirolyubovaalyona/>)
+[My profile][link1]
+
+[link1]: https://leetcode.com/u/mirolyubovaalyona/
+
 
 ## Programming Skills
 
