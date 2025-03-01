@@ -18,6 +18,6 @@
 - [66. Plus One](/66.%20Plus%20One.php)
 - [1822. Sign of the Product of an Array](/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.php)
 - [1502. Can Make Arithmetic Progression From Sequence](/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.php)
-- [896. Monotonic Array](/896.%20Monotonic%20Array.php)
+- [896. Monotonic Array](/Programming%20Skills/896.%20Monotonic%20Array.php)
 
 ### SQL 50
