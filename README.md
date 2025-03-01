@@ -9,5 +9,6 @@
 - [459. Repeated Substring Pattern](/459.%20Repeated%20Substring%20Pattern.php)
 - [283. Move Zeroes](/283.%20Move%20Zeroes.php)
 - [66. Plus One](/66.%20Plus%20One.php)
+- [1822. Sign of the Product of an Array](/1822.%2Sign%2of%2the%2Product%2of%2an%2Array.php)
 
 ## SQL 50
