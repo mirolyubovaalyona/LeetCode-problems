@@ -21,3 +21,5 @@
 - [896. Monotonic Array](/Programming%20Skills/896.%20Monotonic%20Array.php)
 
 ### SQL 50
+
+- [1757. Recyclable and Low Fat Products](/SQL%2050/1757.%20Recyclable%20and%20Low%20Fat%20Products.sql)
