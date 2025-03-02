@@ -26,3 +26,4 @@
 - [584. Find Customer Referee](/SQL%2050/584.%20Find%20Customer%20Referee.sql)
 - [595. Big Countries](/SQL%2050/595.%20Big%20Countries.sql)
 - [1148. Article Views I](/SQL%2050/1148.%20Article%20Views%20I.sql)
+- [1683. Invalid Tweets](/SQL%2050/1683.%20Invalid%20Tweets.sql)
