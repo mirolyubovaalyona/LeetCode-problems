@@ -28,3 +28,4 @@
 - [1148. Article Views I](/SQL%2050/1148.%20Article%20Views%20I.sql)
 - [1683. Invalid Tweets](/SQL%2050/1683.%20Invalid%20Tweets.sql)
 - [1378. Replace Employee ID With The Unique Identifier](/SQL%2050/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql)
+- [1068. Product Sales Analysis I](/SQL%2050/1068.%20Product%20Sales%20Analysis%20I.sql)
