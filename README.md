@@ -30,3 +30,9 @@
 - [1378. Replace Employee ID With The Unique Identifier](/SQL%2050/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql)
 - [1068. Product Sales Analysis I](/SQL%2050/1068.%20Product%20Sales%20Analysis%20I.sql)
 - [1581. Customer Who Visited but Did Not Make Any Transactions](/SQL%2050/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.sql)
+- [197. Rising Temperature]
+- []
+- []
+- []
+- []
+- [] 
